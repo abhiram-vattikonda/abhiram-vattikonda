@@ -10,7 +10,8 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abhiram-vattikonda-1182b5291/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhiram-vattikonda-1182b5291/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3><p align="center" style="display: flex; gap: 15px; flex-wrap: wrap; justify-content: center;">
+<h3 align="left">Languages and Tools:</h3>
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
   </a>
@@ -41,5 +42,11 @@
   <a href="https://unity.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" height="40"/>
   </a>
-</p>
+</div>
+
+
+
+
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiram-vattikonda&show_icons=true&locale=en&layout=compact" alt="abhiram-vattikonda" /></p>
